@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T17:10:10.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="LfZHN4mbbVk5ScxCGbOi" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-26T17:14:57.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="okK2wlh91t8WH0kQnobH" version="23.0.2" type="github" pages="2">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
-    <mxGraphModel dx="883" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,8 +47,59 @@
         <mxCell id="7oMFQ5yD7dIiA29qG7gE-9" value="&lt;font size=&quot;3&quot;&gt;Digitar E-mail&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="265" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7oMFQ5yD7dIiA29qG7gE-11" value="&lt;font size=&quot;3&quot;&gt;Digitar E-mail&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7oMFQ5yD7dIiA29qG7gE-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="295.1111111111111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-11" value="&lt;font size=&quot;3&quot;&gt;Digitar nome de Usuário&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7oMFQ5yD7dIiA29qG7gE-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-16" value="&lt;font size=&quot;3&quot;&gt;Digitar Senha&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7oMFQ5yD7dIiA29qG7gE-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-17" value="&lt;font size=&quot;3&quot;&gt;Digitou nos campos obrigatórios?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="761.25" y="380" width="217.5" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7oMFQ5yD7dIiA29qG7gE-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-19" value="&lt;font size=&quot;3&quot;&gt;E-mail está registrado?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="761.25" y="560" width="217.5" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7oMFQ5yD7dIiA29qG7gE-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-20" value="&lt;font size=&quot;3&quot;&gt;Usuário registrado?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="761.25" y="740" width="217.5" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-21" value="&lt;font size=&quot;3&quot;&gt;A senha está correta?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="920" width="217.5" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7oMFQ5yD7dIiA29qG7gE-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="983.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-22" value="&lt;font size=&quot;3&quot;&gt;A conta está ativa?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="761.25" y="920" width="217.5" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7oMFQ5yD7dIiA29qG7gE-23" value="&lt;font size=&quot;3&quot;&gt;Digitou nos campos obrigatórios?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="146.25" y="620" width="217.5" height="127.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
