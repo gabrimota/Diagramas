@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T18:49:09.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="Q8dg9BGP2nWuBNg3_Yn6" version="23.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-28T19:07:46.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="pNIN7O6ZbGU_s3eXD0bG" version="23.0.2" type="github" pages="6">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
-    <mxGraphModel dx="987" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="479" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,15 +72,6 @@
             <Array as="points">
               <mxPoint x="212" y="550" />
               <mxPoint x="482" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y95-ZTT2ouDbutjckBKJ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" source="y95-ZTT2ouDbutjckBKJ-26" target="y95-ZTT2ouDbutjckBKJ-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="253" y="500.87" as="targetPoint" />
-            <mxPoint x="212" y="638.75" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="212" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
