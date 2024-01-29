@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T11:33:16.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="YEltbrnx0tQuf3RRBJgq" version="23.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-29T11:33:38.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="ZGHYtYMaeswYyVWM2A_Z" version="23.0.2" type="github" pages="5">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
-    <mxGraphModel dx="1199" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1398" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -605,9 +605,6 @@
         <mxCell id="gW3WlaGmuALWCPeecHL0-53" value="&lt;font size=&quot;3&quot;&gt;Produto Removido&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="4122.5" y="755" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fvCeEO-MNhHzuWHxk8cH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvCeEO-MNhHzuWHxk8cH-2" target="fvCeEO-MNhHzuWHxk8cH-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fvCeEO-MNhHzuWHxk8cH-2" value="&lt;font size=&quot;3&quot;&gt;Alterar Produto&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4430" y="400" width="135" height="70" as="geometry" />
         </mxCell>
@@ -618,26 +615,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fvCeEO-MNhHzuWHxk8cH-5" value="&lt;font size=&quot;3&quot;&gt;Botão Remover&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="4388.75" y="512.5" width="217.5" height="127.5" as="geometry" />
-        </mxCell>
-        <mxCell id="fvCeEO-MNhHzuWHxk8cH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="fvCeEO-MNhHzuWHxk8cH-7" target="fvCeEO-MNhHzuWHxk8cH-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4325" y="435" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="4365" y="980" width="217.5" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="fvCeEO-MNhHzuWHxk8cH-7" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4300" y="561.25" width="50" height="30" as="geometry" />
+          <mxGeometry x="4276.25" y="1028.75" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvCeEO-MNhHzuWHxk8cH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvCeEO-MNhHzuWHxk8cH-9" target="fvCeEO-MNhHzuWHxk8cH-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fvCeEO-MNhHzuWHxk8cH-9" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4477.5" y="677.5" width="40" height="30" as="geometry" />
+          <mxGeometry x="4453.75" y="1145" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvCeEO-MNhHzuWHxk8cH-10" value="&lt;font size=&quot;3&quot;&gt;Produto Removido&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="4452.5" y="755" width="90" height="90" as="geometry" />
+          <mxGeometry x="4428.75" y="1222.5" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
