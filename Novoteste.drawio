@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T18:40:36.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="lIzsFxWrr_8gNV3cTNJ2" version="23.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-30T19:46:28.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="D4ARvUSLnf9JGlcrWXvj" version="23.0.2" type="github" pages="5">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
-    <mxGraphModel dx="3624" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,11 +122,19 @@
         <mxCell id="2-kzOGpWzGPgEqoSC0ea-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2-kzOGpWzGPgEqoSC0ea-26" target="2-kzOGpWzGPgEqoSC0ea-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v3TdhVzLn-ePwKTXhvnV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2-kzOGpWzGPgEqoSC0ea-26" target="2-kzOGpWzGPgEqoSC0ea-33" edge="1">
+        <mxCell id="tH7GM2KithzNk89-ZYXv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-kzOGpWzGPgEqoSC0ea-26" target="tH7GM2KithzNk89-ZYXv-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="904" y="559" />
-              <mxPoint x="1231" y="559" />
+              <mxPoint x="904" y="570" />
+              <mxPoint x="1130" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tH7GM2KithzNk89-ZYXv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-kzOGpWzGPgEqoSC0ea-26" target="tH7GM2KithzNk89-ZYXv-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="904" y="570" />
+              <mxPoint x="1264" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -176,15 +184,6 @@
         </mxCell>
         <mxCell id="2-kzOGpWzGPgEqoSC0ea-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;Campos Obrigatórios&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="844" y="619" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2-kzOGpWzGPgEqoSC0ea-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" parent="1" source="2-kzOGpWzGPgEqoSC0ea-33" target="2-kzOGpWzGPgEqoSC0ea-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2-kzOGpWzGPgEqoSC0ea-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" parent="1" source="2-kzOGpWzGPgEqoSC0ea-33" target="2-kzOGpWzGPgEqoSC0ea-60" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2-kzOGpWzGPgEqoSC0ea-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;Campos de Acesso&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1171" y="619" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v3TdhVzLn-ePwKTXhvnV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2-kzOGpWzGPgEqoSC0ea-34" target="2-kzOGpWzGPgEqoSC0ea-37" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -248,12 +247,6 @@
               <mxPoint x="765" y="699" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="2-kzOGpWzGPgEqoSC0ea-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;Campo Cadastrar com Facebook&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1102" y="719" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2-kzOGpWzGPgEqoSC0ea-60" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;Campo Cadastrar com o Google&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1241" y="719" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v3TdhVzLn-ePwKTXhvnV-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2-kzOGpWzGPgEqoSC0ea-68" target="7oMFQ5yD7dIiA29qG7gE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -426,6 +419,12 @@
         </mxCell>
         <mxCell id="eZ5YkA1IrtE-Hj3yZzL5-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Login pelo Facebook&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="619" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tH7GM2KithzNk89-ZYXv-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Cadastro pelo Google&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="619" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tH7GM2KithzNk89-ZYXv-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Cadastro pelo Facebook&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1204" y="619" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
