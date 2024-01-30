@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T18:27:15.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="tWN-zDG4-2WcSfLlIOAo" version="23.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-30T18:28:19.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="n1eZUrt0xhdhwfL1GKPy" version="23.0.2" type="github" pages="5">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
     <mxGraphModel dx="3624" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -431,12 +431,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ajf7Fk4vNACYwCc_Dm5z" name="Home Estoque">
-    <mxGraphModel dx="2026" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3624" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lnGmpgedV5WTCH_r_CDw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lnGmpgedV5WTCH_r_CDw-1" target="lnGmpgedV5WTCH_r_CDw-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="450" />
+              <mxPoint x="470" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lnGmpgedV5WTCH_r_CDw-1" value="&lt;font size=&quot;3&quot;&gt;Home&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="410" width="120" height="80" as="geometry" />
@@ -451,7 +456,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lnGmpgedV5WTCH_r_CDw-3" value="Page&lt;br&gt;Estoque" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="200" width="80" height="80" as="geometry" />
+          <mxGeometry x="1027.5" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wkcjdHKKsIAryQih7LXz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wkcjdHKKsIAryQih7LXz-10" target="wkcjdHKKsIAryQih7LXz-31">
           <mxGeometry relative="1" as="geometry" />
@@ -773,7 +778,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rIRfH5t7KJWuIP6PqEu5" name="Home perfil">
-    <mxGraphModel dx="479" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2397" dy="1297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -932,7 +937,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bQK97-rxp-xlZG5JOty1" name="Page solitária ">
-    <mxGraphModel dx="-28" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="571" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
