@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T16:47:31.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="lYOzrPezpLTXIMjMt2yK" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-30T16:47:53.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="8m2GNIR64cOCHSlR_tnQ" version="23.0.2" type="github" pages="4">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
     <mxGraphModel dx="2026" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -821,7 +821,7 @@
         <mxCell id="GzZo_aXkres6YbmN9Spd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzZo_aXkres6YbmN9Spd-10" target="GzZo_aXkres6YbmN9Spd-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzZo_aXkres6YbmN9Spd-10" value="&lt;font size=&quot;3&quot;&gt;Obrigatórios Preenchidos&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="GzZo_aXkres6YbmN9Spd-10" value="&lt;font size=&quot;3&quot;&gt;O E-mail está &lt;br&gt;cadastrado &lt;br&gt;na base de &lt;br&gt;dados?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1661.25" y="2040" width="217.5" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="GzZo_aXkres6YbmN9Spd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="GzZo_aXkres6YbmN9Spd-12" target="GzZo_aXkres6YbmN9Spd-7">
