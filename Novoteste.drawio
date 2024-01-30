@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T17:39:24.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="AA9S3WBfv-H4dwe7MhwU" version="23.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-30T17:40:02.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="RrVrarD-3g91RPMqAzG0" version="23.0.2" type="github" pages="3">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
     <mxGraphModel dx="2026" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -480,7 +480,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ajf7Fk4vNACYwCc_Dm5z" name="Home Estoque">
-    <mxGraphModel dx="2925" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2225" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,11 +838,17 @@
         <mxCell id="ETlChrS58fwvlBirMyad-1" value="&lt;font size=&quot;3&quot;&gt;Page&lt;br&gt;Perfil&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M6ToPnyXqhZ5v3f_R7Sc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M6ToPnyXqhZ5v3f_R7Sc-1" value="&lt;font size=&quot;3&quot;&gt;E-Mail&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M6ToPnyXqhZ5v3f_R7Sc-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M6ToPnyXqhZ5v3f_R7Sc-2" value="&lt;font size=&quot;3&quot;&gt;Senha&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q-o9Y4jsLPfP198cYrzH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrZ6nKnQtg4YCreLbpiB-1" target="M6ToPnyXqhZ5v3f_R7Sc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-o9Y4jsLPfP198cYrzH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vrZ6nKnQtg4YCreLbpiB-1" target="M6ToPnyXqhZ5v3f_R7Sc-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vrZ6nKnQtg4YCreLbpiB-1" value="&lt;font size=&quot;3&quot;&gt;Alteração&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="400" width="120" height="60" as="geometry" />
