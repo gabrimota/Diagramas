@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T16:41:40.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="v0d_5VSgcmYgw3_drZli" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-30T16:41:58.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="C4FkQjDPcqeUAyM8hvgg" version="23.0.2" type="github" pages="4">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
     <mxGraphModel dx="2026" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -817,6 +817,9 @@
         </mxCell>
         <mxCell id="GzZo_aXkres6YbmN9Spd-7" value="&lt;font size=&quot;3&quot;&gt;E-mail&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GzZo_aXkres6YbmN9Spd-10" value="&lt;font size=&quot;3&quot;&gt;Obrigatórios Preenchidos&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1661.25" y="2040" width="217.5" height="127.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
