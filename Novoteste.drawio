@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T18:06:18.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="CkNcCLFAA5RwdRh_lx8w" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-30T18:08:08.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="mo5wmiwRKmWgNtKhJgG9" version="23.0.2" type="github" pages="5">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
-    <mxGraphModel dx="2225" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2925" dy="2304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,9 +267,6 @@
         <mxCell id="v3TdhVzLn-ePwKTXhvnV-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2-kzOGpWzGPgEqoSC0ea-68" target="v3TdhVzLn-ePwKTXhvnV-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzZo_aXkres6YbmN9Spd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-kzOGpWzGPgEqoSC0ea-68" target="GzZo_aXkres6YbmN9Spd-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2-kzOGpWzGPgEqoSC0ea-68" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;App Estoque&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="-50" width="710" height="170" as="geometry" />
         </mxCell>
@@ -480,7 +477,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ajf7Fk4vNACYwCc_Dm5z" name="Home Estoque">
-    <mxGraphModel dx="3624" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2925" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,6 +992,14 @@
         <mxCell id="pxGB8YQWCQWFY4KsW2ir-2" value="Page&amp;nbsp;&lt;br&gt;Notificações" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="414" y="100" width="80" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bQK97-rxp-xlZG5JOty1" name="Page solitária ">
+    <mxGraphModel dx="839" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
