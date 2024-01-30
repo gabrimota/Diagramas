@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T18:28:46.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="OsMMGWNeCs1m4lb4etwr" version="23.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-30T18:33:13.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="_rbl__lFqGSWK6ciQPID" version="23.0.2" type="github" pages="5">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
     <mxGraphModel dx="3624" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -431,7 +431,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ajf7Fk4vNACYwCc_Dm5z" name="Home Estoque">
-    <mxGraphModel dx="2225" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3224" dy="1297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -779,7 +779,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rIRfH5t7KJWuIP6PqEu5" name="Home perfil">
-    <mxGraphModel dx="2397" dy="1297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -802,6 +802,7 @@
             <Array as="points">
               <mxPoint x="930" y="430" />
               <mxPoint x="1084" y="430" />
+              <mxPoint x="1084" y="486" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -921,7 +922,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b94n1fsxev5SPAS9gSws" name="Home Notificações">
-    <mxGraphModel dx="987" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1398" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
