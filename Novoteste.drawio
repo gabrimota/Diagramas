@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T18:21:30.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="_O3ufJ5BRupRVjru27vV" version="23.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-30T18:22:50.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="Be-DnpZ3uiz-HwYBzzBO" version="23.0.2" type="github" pages="5">
   <diagram name="Login" id="BAc4O2HyZUumQgEEkWEl">
     <mxGraphModel dx="3624" dy="2682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -773,7 +773,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rIRfH5t7KJWuIP6PqEu5" name="Home perfil">
-    <mxGraphModel dx="579" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="987" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -890,7 +890,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EykuSZxQB-W-3DYrGjX5-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1078.25" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EykuSZxQB-W-3DYrGjX5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EykuSZxQB-W-3DYrGjX5-7" target="EykuSZxQB-W-3DYrGjX5-10">
           <mxGeometry relative="1" as="geometry">
