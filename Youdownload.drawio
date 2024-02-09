@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T03:13:51.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="1PvgbcAaBv9y5geDNI_E" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T03:22:59.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="cZPj3kQU8QguzTt62fB2" version="23.1.2" type="github">
   <diagram name="Página-1" id="960etYWL-9kqXNCr96o-">
-    <mxGraphModel dx="1307" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="818" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,8 +99,17 @@
         <mxCell id="oRH57vNKz7XiLUDskd3l-28" value="Login google" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="284" y="186" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r8SAIl4DxViHAR8zFBAR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r8SAIl4DxViHAR8zFBAR-15" target="r8SAIl4DxViHAR8zFBAR-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r8SAIl4DxViHAR8zFBAR-15" value="Download Page" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="870" y="36" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r8SAIl4DxViHAR8zFBAR-20" value="Required field" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="870" y="186" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8SAIl4DxViHAR8zFBAR-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Link Field&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="322" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
