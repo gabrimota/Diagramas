@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T03:10:22.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="uLXZMM8_2EsVpxr-t-JQ" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T03:11:09.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="6C3U_3LGOo2STwBEIViu" version="23.1.2" type="github">
   <diagram name="Página-1" id="960etYWL-9kqXNCr96o-">
-    <mxGraphModel dx="436" dy="641" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="625" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,13 +44,13 @@
         <mxCell id="r8SAIl4DxViHAR8zFBAR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRH57vNKz7XiLUDskd3l-6" target="oRH57vNKz7XiLUDskd3l-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oRH57vNKz7XiLUDskd3l-6" value="Campos obrigatórios&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="oRH57vNKz7XiLUDskd3l-6" value="Required field" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="129" y="189" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8SAIl4DxViHAR8zFBAR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRH57vNKz7XiLUDskd3l-8" target="oRH57vNKz7XiLUDskd3l-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oRH57vNKz7XiLUDskd3l-8" value="Campo E-Mail" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="oRH57vNKz7XiLUDskd3l-8" value="Field E-Mail" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="60" y="351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8SAIl4DxViHAR8zFBAR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRH57vNKz7XiLUDskd3l-9" target="oRH57vNKz7XiLUDskd3l-12">
@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oRH57vNKz7XiLUDskd3l-9" value="Campo senha" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="oRH57vNKz7XiLUDskd3l-9" value="Field Password" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="199" y="351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8SAIl4DxViHAR8zFBAR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oRH57vNKz7XiLUDskd3l-12" target="oRH57vNKz7XiLUDskd3l-15">
