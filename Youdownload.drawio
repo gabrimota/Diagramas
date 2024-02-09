@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T12:05:53.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="jSgaRJ4omzngn7Ybh7a-" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T12:11:50.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="nzvREsnzXhToP3rmzNrv" version="23.1.2" type="github">
   <diagram name="Página-1" id="960etYWL-9kqXNCr96o-">
-    <mxGraphModel dx="765" dy="839" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,13 +111,13 @@
         <mxCell id="r8SAIl4DxViHAR8zFBAR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="r8SAIl4DxViHAR8zFBAR-23" target="r8SAIl4DxViHAR8zFBAR-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8SAIl4DxViHAR8zFBAR-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Link Field&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="r8SAIl4DxViHAR8zFBAR-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;UrlField&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="189" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8SAIl4DxViHAR8zFBAR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="r8SAIl4DxViHAR8zFBAR-25" target="r8SAIl4DxViHAR8zFBAR-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r8SAIl4DxViHAR8zFBAR-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Link List Field&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="r8SAIl4DxViHAR8zFBAR-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Url Play list Field&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1155.4" y="192" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r8SAIl4DxViHAR8zFBAR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="r8SAIl4DxViHAR8zFBAR-28" target="r8SAIl4DxViHAR8zFBAR-30" edge="1">
