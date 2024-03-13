@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T20:17:50.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GtVybEFgV-LTthQ2RWaC" version="24.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-13T20:18:50.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xO2yt4RgTq1zAjm-Rmlg" version="24.0.6" type="github" pages="2">
   <diagram name="Página-1" id="960etYWL-9kqXNCr96o-">
     <mxGraphModel dx="838" dy="846" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,6 +216,9 @@
         <mxCell id="uGOuadPfMT9bvekDbeTd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uGOuadPfMT9bvekDbeTd-4" target="uGOuadPfMT9bvekDbeTd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uGOuadPfMT9bvekDbeTd-4" target="RQI2Rvj5_lGCAjLPE7Wm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uGOuadPfMT9bvekDbeTd-4" value="O link está&lt;br&gt;dentro do&amp;nbsp;&lt;br&gt;padrão?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="320" width="80" height="80" as="geometry" />
         </mxCell>
@@ -243,7 +246,7 @@
         <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RQI2Rvj5_lGCAjLPE7Wm-1" target="RQI2Rvj5_lGCAjLPE7Wm-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-1" value="O link está&lt;br&gt;correto?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-1" value="O link está&lt;br&gt;existe?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="RQI2Rvj5_lGCAjLPE7Wm-2" target="uGOuadPfMT9bvekDbeTd-1">
