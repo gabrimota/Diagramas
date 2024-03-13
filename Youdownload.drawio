@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T20:19:33.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XZGmEv4grcNpLj1E6WZO" version="24.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-13T20:21:02.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="S4dCAEFqLiZNYvP_9Ute" version="24.0.6" type="github" pages="2">
   <diagram name="Página-1" id="960etYWL-9kqXNCr96o-">
     <mxGraphModel dx="838" dy="846" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,6 +266,9 @@
         <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RQI2Rvj5_lGCAjLPE7Wm-8" target="RQI2Rvj5_lGCAjLPE7Wm-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RQI2Rvj5_lGCAjLPE7Wm-8" target="RQI2Rvj5_lGCAjLPE7Wm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-8" value="É um vídeo?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="544.5" width="80" height="80" as="geometry" />
         </mxCell>
@@ -279,6 +282,15 @@
         </mxCell>
         <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-10" value="Não" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="565" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-13" value="Download&lt;br&gt;concluido" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="800" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RQI2Rvj5_lGCAjLPE7Wm-15" target="RQI2Rvj5_lGCAjLPE7Wm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RQI2Rvj5_lGCAjLPE7Wm-15" value="tem download&lt;br&gt;disponivel?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="660" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
