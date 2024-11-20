@@ -50,7 +50,7 @@
           <mxGeometry x="730" y="930" width="470" height="270" as="geometry" />
         </mxCell>
         <mxCell id="qMCe748NebY753g6cGeh-6" value="Promoção de Natal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="930" width="130" height="30" as="geometry" />
+          <mxGeometry x="888" y="930" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qMCe748NebY753g6cGeh-10" value="" style="shape=link;html=1;rounded=0;width=0.5882352941176467;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qMCe748NebY753g6cGeh-11">
           <mxGeometry width="100" relative="1" as="geometry">
