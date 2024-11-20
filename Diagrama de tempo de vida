@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.8.6">
   <diagram name="Página-1" id="3g3tH6U18498yYSrMHEA">
-    <mxGraphModel>
+    <mxGraphModel dx="775" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="io7XWdC_EleHR0cpVJ0u-1" value="Usuário          Loja Online       Banco de Dados       Sistema de Pagamento&#xa; |                     |                  |                        |&#xa; |---Acessa Site------&gt;|                  |                        |&#xa; |                     |---Busca Produtos---&gt;|                        |&#xa; |                     |&lt;--Produtos Disponíveis-|                        |&#xa; |---Adiciona ao Carrinho--------------------&gt;|                        |&#xa; |                     |---Atualiza Estoque--&gt;|                        |&#xa; |                     |&lt;--Confirmação Estoque-|                        |&#xa; |---Checkout---------&gt;|                      |                        |&#xa; |                     |---Envia Pagamento--------------------------&gt;|&#xa; |                     |&lt;--Confirmação Pagamento---------------------|&#xa; |&lt;--Pedido Confirmado-" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="640" width="430" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="io7XWdC_EleHR0cpVJ0u-2" value="Usuário" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="io7XWdC_EleHR0cpVJ0u-3" value="Loja Online" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="io7XWdC_EleHR0cpVJ0u-5" value="Banco de Dados" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="760" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="io7XWdC_EleHR0cpVJ0u-6" value="Sistema de Pagamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="760" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
