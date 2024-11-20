@@ -46,6 +46,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qMCe748NebY753g6cGeh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="930" width="720" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="qMCe748NebY753g6cGeh-6" value="Promoção de Natal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="940" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
