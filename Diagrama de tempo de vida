@@ -91,8 +91,8 @@
             <mxPoint x="1119" y="1109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qMCe748NebY753g6cGeh-23" value="Aplicando Descontos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="719" y="1139" width="140" height="30" as="geometry" />
+        <mxCell id="qMCe748NebY753g6cGeh-23" value="Finalizando a Promoção" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="726" y="1139" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qMCe748NebY753g6cGeh-24" value="" style="shape=link;html=1;rounded=0;width=0.5882352941176467;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
