@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.8.6">
   <diagram name="Página-1" id="3g3tH6U18498yYSrMHEA">
-    <mxGraphModel dx="604" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="410" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,27 +117,6 @@
         </mxCell>
         <mxCell id="qMCe748NebY753g6cGeh-35" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="950" width="470" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="qMCe748NebY753g6cGeh-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="1380" as="sourcePoint" />
-            <mxPoint x="950" y="1330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qMCe748NebY753g6cGeh-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="1380" as="sourcePoint" />
-            <mxPoint x="950" y="1330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qMCe748NebY753g6cGeh-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1040" y="1250" as="sourcePoint" />
-            <mxPoint x="934" y="1250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="990" y="1250" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
