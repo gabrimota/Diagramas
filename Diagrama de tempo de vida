@@ -7,22 +7,8 @@
         <mxCell id="io7XWdC_EleHR0cpVJ0u-1" value="Usuário          Loja Online       Banco de Dados       Sistema de Pagamento&#xa; |                     |                  |                        |&#xa; |---Acessa Site------&gt;|                  |                        |&#xa; |                     |---Busca Produtos---&gt;|                        |&#xa; |                     |&lt;--Produtos Disponíveis-|                        |&#xa; |---Adiciona ao Carrinho--------------------&gt;|                        |&#xa; |                     |---Atualiza Estoque--&gt;|                        |&#xa; |                     |&lt;--Confirmação Estoque-|                        |&#xa; |---Checkout---------&gt;|                      |                        |&#xa; |                     |---Envia Pagamento--------------------------&gt;|&#xa; |                     |&lt;--Confirmação Pagamento---------------------|&#xa; |&lt;--Pedido Confirmado-" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry y="640" width="430" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="io7XWdC_EleHR0cpVJ0u-8" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;width=0.4761904761904763;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="980" as="targetPoint" />
-            <mxPoint x="520" y="790" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="520" y="890" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="io7XWdC_EleHR0cpVJ0u-2" value="Usuário" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="760" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="io7XWdC_EleHR0cpVJ0u-9" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;width=0.4761904761904763;" edge="1" parent="1" source="io7XWdC_EleHR0cpVJ0u-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="635" y="980" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="io7XWdC_EleHR0cpVJ0u-3" value="Loja Online" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="760" width="70" height="30" as="geometry" />
@@ -32,6 +18,12 @@
         </mxCell>
         <mxCell id="io7XWdC_EleHR0cpVJ0u-6" value="Sistema de Pagamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="760" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="io7XWdC_EleHR0cpVJ0u-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="io7XWdC_EleHR0cpVJ0u-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="970" as="sourcePoint" />
+            <mxPoint x="520" y="800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
