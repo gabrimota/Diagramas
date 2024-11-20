@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qMCe748NebY753g6cGeh-20" value="Aplicando Descontos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="746" y="1100" width="140" height="30" as="geometry" />
+          <mxGeometry x="740" y="1100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qMCe748NebY753g6cGeh-21" value="" style="shape=link;html=1;rounded=0;width=0.5882352941176467;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -89,6 +89,21 @@
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="1049" y="1110" as="sourcePoint" />
             <mxPoint x="1119" y="1109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMCe748NebY753g6cGeh-23" value="Aplicando Descontos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qMCe748NebY753g6cGeh-24" value="" style="shape=link;html=1;rounded=0;width=0.5882352941176467;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1118" y="1109" as="sourcePoint" />
+            <mxPoint x="1119" y="1159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMCe748NebY753g6cGeh-25" value="" style="shape=link;html=1;rounded=0;width=0.5882352941176467;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1118" y="1160" as="sourcePoint" />
+            <mxPoint x="1188" y="1159" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
